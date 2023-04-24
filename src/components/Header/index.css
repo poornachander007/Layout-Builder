@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.header {
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  /* padding: 10px; */
+  text-align: center;
+  font-size: 26px;
+  font-weight: 600;
+  color: #475569;
+  background-color: #cbd5e1;
+  margin: 5px 0px 5px 0px;
+}

@@ -1,0 +1,29 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.layout_navBar {
+  width: 100%;
+  padding: 20px 50px 10px 50px;
+  color: #ffffff;
+  background-color: #64748b;
+  font-family: Roboto;
+}
+
+.heading_layout {
+  font-size: 24px;
+}
+
+.ul_layout_options {
+  padding: 0;
+}
+
+.li_layout_option {
+  list-style-type: none;
+  display: flex;
+}
+
+.checkbox {
+  margin-right: 10px;
+}
+
+.label_for_option {
+}
